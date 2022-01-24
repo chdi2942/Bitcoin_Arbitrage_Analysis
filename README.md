@@ -51,6 +51,6 @@ It is clear that as time progresses through the data, the spread between the bit
 
 ## Requirements
 
-Python 3.7
-Jupyter Lab
-Pandas library
+* Python 3.7
+* Jupyter Lab
+* Pandas library
